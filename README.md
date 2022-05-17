@@ -2,7 +2,11 @@
 CDNCAV - demo de creación de contenidos de RA con AR.JS
 
 
-(una vez clonado este repositorio, renonmbrar a nombre_usuario.github.io) 
+ROCIO 3D (REALIDAD AUMENTADA) 
+<img width="465" alt="Captura de pantalla 2022-05-17 a las 12 17 47" src="https://user-images.githubusercontent.com/101641555/168851699-76e43a2a-071b-4afb-a49a-dba1e39bb9e6.png">
+
+QR PARA ACCEDER A LA REALIDAD AUMENTADA 
+
 
 Contenido: 
 - Ejemplo de AR.JS (con patrones) en webvr 
