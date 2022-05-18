@@ -9,6 +9,7 @@ ROCIO 3D (REALIDAD AUMENTAD)
 
 QR PARA ACCEDER A LA REALIDAD AUMENTADA 
 
+![qr-code](https://user-images.githubusercontent.com/101641555/169082734-770cb6ba-e807-4d1a-809d-893fd1f298fe.png)
 
 
 Contenido: 
