@@ -11,6 +11,8 @@ QR PARA ACCEDER A LA REALIDAD AUMENTADA
 
 ![qr-code](https://user-images.githubusercontent.com/101641555/169082734-770cb6ba-e807-4d1a-809d-893fd1f298fe.png)
 
+ROCIO el videojuego: https://make.gamefroot.com/games/remix/524092 https://storage.googleapis.com/users.gamefroot.com/4725890/game/524092/1653839538701.html
+
 
 Contenido: 
 - Ejemplo de AR.JS (con patrones) en webvr 
